@@ -1,0 +1,23 @@
+[
+	{
+		"dateStart" : "18 June 2012",
+		"dateEnd" : "31 May 2016",
+		"headline" : "SASTRA University",
+		"img" : "../data/images/sastra.jpg",
+		"text" : "B.Tech Computer Science and Engineering. Graduated with 3.5/4 GPA with First Class with Distinction. <p>Favourite subjects are Design and Analysis of Algorithms, Database Management Systems and ofcourse Programming in C, C++ and JAVA ! :D</p>"
+	},
+	{
+		"dateStart" : "15 June 2016",
+		"dateEnd" : "1 July 2019",
+		"headline" : "Freshworks",
+		"img" : "../data/images/freshworks.png",
+		"text" : "<ul><li>Developed Cross-browser compatible Responsive UI for new features, enhancements and designs for Freshservice (Service Desk) which is used by 150,000 businesses worldwide.</li><li>Developed a scalable custom form builder which is used across Freshservice. Helped reduce the development cost, effort and time by 8 weeks.</li><li>Upgraded web framework used in Freshservice which reduced web page load times by 40%.</li></ul>"
+	},
+	{
+		"dateStart" : "21 August 2019",
+		"dateEnd" : "27 November 2019",
+		"headline" : "Arizona State University",
+		"img" : "../data/images/asu.png",
+		"text" : "<p>Wanted to pursue Master's in Computer Science at Arizona State University. Currently studying in the first semester. </p><br/> <p> Current Subjects:</p><ul><li>Data Visualization</li><li>Statistical Machine Learning</li><li>Mobile Computing</li> "
+	}
+]
