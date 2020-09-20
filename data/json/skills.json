@@ -1,13 +1,13 @@
 [
-    {"skill": "C ", "value": 9},
-    {"skill": "C++ ", "value": 9},
-    {"skill": "Java ", "value": 9},
+    {"skill": "ReactJS ", "value": 9},
     {"skill": "Python ", "value": 9},
-    {"skill": "SQL ", "value": 7},
     {"skill": "HTML", "value": 10},
     {"skill": "CSS ", "value": 10},
     {"skill": "JS ", "value": 10},
-    {"skill": "ReactJS ", "value": 7},
     {"skill": "jQuery ", "value": 10},
-    {"skill": "d3 ", "value": 8}
+    {"skill": "d3 ", "value": 8},
+    {"skill": "C ", "value": 8},
+    {"skill": "C++ ", "value": 8},
+    {"skill": "Java ", "value": 7},
+    {"skill": "SQL ", "value": 7}
 ]

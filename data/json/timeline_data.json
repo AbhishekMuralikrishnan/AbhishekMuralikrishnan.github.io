@@ -15,9 +15,9 @@
 	},
 	{
 		"dateStart" : "21 August 2019",
-		"dateEnd" : "20 February 2020",
+		"dateEnd" : "20 September 2020",
 		"headline" : "Arizona State University",
 		"img" : "../data/images/asu.png",
-		"text" : "<p>Wanted to pursue Master's in Computer Science at Arizona State University. Currently studying in the second semester. CGPA: 3.78 </p><br/> <p>Subjects undertaken:</p><ul><li>Data Visualization</li><li>Statistical Machine Learning</li><li>Mobile Computing</li><li>Foundation of Algorithms</li><li>Distributed Database Systems</li><li>Information Assurance and Security</li></ul> "
+		"text" : "<p>Wanted to pursue Master's in Computer Science at Arizona State University. Currently studying in the third semester. CGPA: 3.78 </p><br/> <p>Subjects undertaken:</p><ul><li>Data Visualization</li><li>Statistical Machine Learning</li><li>Mobile Computing</li><li>Foundation of Algorithms</li><li>Distributed Database Systems</li><li>Data Mining</li><li>Software Security</li><li>Information Assurance and Security</li><li>Distributed Multiprocessor Operating Systems</li></ul> "
 	}
 ]
